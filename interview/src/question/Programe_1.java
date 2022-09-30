@@ -1,7 +1,7 @@
 package question;
 import java.util.Scanner;
 
-public class calculator {
+public class Programe_1 {
 		 
 	public static void main(String[] args) {
 			Scanner obj1 = new Scanner(System.in);

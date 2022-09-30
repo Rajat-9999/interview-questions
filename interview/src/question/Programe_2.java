@@ -1,6 +1,6 @@
 package question;
 import java.util.Scanner;
-public class seriesofno {
+public class Programe_2 {
 	
 	  public static void main(String[] args) {
 		Scanner obj1=new Scanner(System.in);
